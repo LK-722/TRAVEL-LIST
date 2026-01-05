@@ -22,3 +22,6 @@ Build with `npm run build` and host the `build/` folder on any static host. A `d
 - React (Create React App)
 - Styles in `src/index.css`
 - Main app logic in `src/App.js`
+
+## Live Link
+-https://travel-list-chi-ecru.vercel.app/
